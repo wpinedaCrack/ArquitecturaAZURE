@@ -1,0 +1,11 @@
+D:\UdemyFull\ARQUITECTURA\ArquitacturaSeguridadMonitoreo\ProyectoArquitectura\TarkerBooking\src\Tarker.Booking.Common\bin\Debug\net7.0\Tarker.Booking.Common.deps.json
+D:\UdemyFull\ARQUITECTURA\ArquitacturaSeguridadMonitoreo\ProyectoArquitectura\TarkerBooking\src\Tarker.Booking.Common\bin\Debug\net7.0\Tarker.Booking.Common.dll
+D:\UdemyFull\ARQUITECTURA\ArquitacturaSeguridadMonitoreo\ProyectoArquitectura\TarkerBooking\src\Tarker.Booking.Common\bin\Debug\net7.0\Tarker.Booking.Common.pdb
+D:\UdemyFull\ARQUITECTURA\ArquitacturaSeguridadMonitoreo\ProyectoArquitectura\TarkerBooking\src\Tarker.Booking.Common\obj\Debug\net7.0\Tarker.Booking.Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\UdemyFull\ARQUITECTURA\ArquitacturaSeguridadMonitoreo\ProyectoArquitectura\TarkerBooking\src\Tarker.Booking.Common\obj\Debug\net7.0\Tarker.Booking.Common.AssemblyInfoInputs.cache
+D:\UdemyFull\ARQUITECTURA\ArquitacturaSeguridadMonitoreo\ProyectoArquitectura\TarkerBooking\src\Tarker.Booking.Common\obj\Debug\net7.0\Tarker.Booking.Common.AssemblyInfo.cs
+D:\UdemyFull\ARQUITECTURA\ArquitacturaSeguridadMonitoreo\ProyectoArquitectura\TarkerBooking\src\Tarker.Booking.Common\obj\Debug\net7.0\Tarker.Booking.Common.csproj.CoreCompileInputs.cache
+D:\UdemyFull\ARQUITECTURA\ArquitacturaSeguridadMonitoreo\ProyectoArquitectura\TarkerBooking\src\Tarker.Booking.Common\obj\Debug\net7.0\Tarker.Booking.Common.dll
+D:\UdemyFull\ARQUITECTURA\ArquitacturaSeguridadMonitoreo\ProyectoArquitectura\TarkerBooking\src\Tarker.Booking.Common\obj\Debug\net7.0\refint\Tarker.Booking.Common.dll
+D:\UdemyFull\ARQUITECTURA\ArquitacturaSeguridadMonitoreo\ProyectoArquitectura\TarkerBooking\src\Tarker.Booking.Common\obj\Debug\net7.0\Tarker.Booking.Common.pdb
+D:\UdemyFull\ARQUITECTURA\ArquitacturaSeguridadMonitoreo\ProyectoArquitectura\TarkerBooking\src\Tarker.Booking.Common\obj\Debug\net7.0\ref\Tarker.Booking.Common.dll
