@@ -25,8 +25,6 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tarker.Booking.External", "
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tarker.Booking.Persistence", "src\Tarker.Booking.Persistence\Tarker.Booking.Persistence.csproj", "{9453A237-EE80-44D0-87FA-509E7592EF81}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tarker.Booking.Domain", "Tarker.Booking.Domain\Tarker.Booking.Domain.csproj", "{D53F74D6-5F41-48F6-BAF9-F7C60D77801B}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -57,10 +55,6 @@ Global
 		{9453A237-EE80-44D0-87FA-509E7592EF81}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9453A237-EE80-44D0-87FA-509E7592EF81}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9453A237-EE80-44D0-87FA-509E7592EF81}.Release|Any CPU.Build.0 = Release|Any CPU
-		{D53F74D6-5F41-48F6-BAF9-F7C60D77801B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{D53F74D6-5F41-48F6-BAF9-F7C60D77801B}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{D53F74D6-5F41-48F6-BAF9-F7C60D77801B}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{D53F74D6-5F41-48F6-BAF9-F7C60D77801B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -76,7 +70,6 @@ Global
 		{6790356E-DC41-4341-9D2E-EC6EDC43737C} = {08AB01B9-291F-48C3-9A31-D86DD2D6FAD4}
 		{53263F2D-4472-4ED6-8C2D-4749CDBE40B3} = {6790356E-DC41-4341-9D2E-EC6EDC43737C}
 		{9453A237-EE80-44D0-87FA-509E7592EF81} = {6790356E-DC41-4341-9D2E-EC6EDC43737C}
-		{D53F74D6-5F41-48F6-BAF9-F7C60D77801B} = {D1858863-0A83-4F7B-9BBA-DBFC79B232C1}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {8DA6EE43-F395-40FD-AE8F-23622B83198F}
