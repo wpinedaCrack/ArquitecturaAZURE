@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\udemy\\Arquitectura\\AZUREArquitectura\\ProyectoWil\\src\\Tarker.Booking.Common\\Tarker.Booking.Common.csproj": {}
+    "D:\\UdemyFull\\ARQUITECTURA\\ArquitacturaSeguridadMonitoreo\\ProyectoArquitectura\\TarkerBooking\\src\\Tarker.Booking.Common\\Tarker.Booking.Common.csproj": {}
   },
   "projects": {
-    "C:\\udemy\\Arquitectura\\AZUREArquitectura\\ProyectoWil\\src\\Tarker.Booking.Common\\Tarker.Booking.Common.csproj": {
+    "D:\\UdemyFull\\ARQUITECTURA\\ArquitacturaSeguridadMonitoreo\\ProyectoArquitectura\\TarkerBooking\\src\\Tarker.Booking.Common\\Tarker.Booking.Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\udemy\\Arquitectura\\AZUREArquitectura\\ProyectoWil\\src\\Tarker.Booking.Common\\Tarker.Booking.Common.csproj",
+        "projectUniqueName": "D:\\UdemyFull\\ARQUITECTURA\\ArquitacturaSeguridadMonitoreo\\ProyectoArquitectura\\TarkerBooking\\src\\Tarker.Booking.Common\\Tarker.Booking.Common.csproj",
         "projectName": "Tarker.Booking.Common",
-        "projectPath": "C:\\udemy\\Arquitectura\\AZUREArquitectura\\ProyectoWil\\src\\Tarker.Booking.Common\\Tarker.Booking.Common.csproj",
-        "packagesPath": "C:\\Users\\luish\\.nuget\\packages\\",
-        "outputPath": "C:\\udemy\\Arquitectura\\AZUREArquitectura\\ProyectoWil\\src\\Tarker.Booking.Common\\obj\\",
+        "projectPath": "D:\\UdemyFull\\ARQUITECTURA\\ArquitacturaSeguridadMonitoreo\\ProyectoArquitectura\\TarkerBooking\\src\\Tarker.Booking.Common\\Tarker.Booking.Common.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "D:\\UdemyFull\\ARQUITECTURA\\ArquitacturaSeguridadMonitoreo\\ProyectoArquitectura\\TarkerBooking\\src\\Tarker.Booking.Common\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\luish\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -39,11 +39,22 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -60,7 +71,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.205\\RuntimeIdentifierGraph.json"
         }
       }
     }
