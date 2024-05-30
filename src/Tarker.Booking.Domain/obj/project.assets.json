@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\UdemyFull\\ARQUITECTURA\\ArquitacturaSeguridadMonitoreo\\ProyectoArquitectura\\TarkerBooking\\src\\Tarker.Booking.Domain\\Tarker.Booking.Domain.csproj",
+      "projectUniqueName": "D:\\UdemyFull\\ARQUITECTURA\\ArquitacturaSeguridadMonitoreo\\ProyectoArquitectura\\TarkerBooking_Depurado\\src\\Tarker.Booking.Domain\\Tarker.Booking.Domain.csproj",
       "projectName": "Tarker.Booking.Domain",
-      "projectPath": "D:\\UdemyFull\\ARQUITECTURA\\ArquitacturaSeguridadMonitoreo\\ProyectoArquitectura\\TarkerBooking\\src\\Tarker.Booking.Domain\\Tarker.Booking.Domain.csproj",
+      "projectPath": "D:\\UdemyFull\\ARQUITECTURA\\ArquitacturaSeguridadMonitoreo\\ProyectoArquitectura\\TarkerBooking_Depurado\\src\\Tarker.Booking.Domain\\Tarker.Booking.Domain.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "D:\\UdemyFull\\ARQUITECTURA\\ArquitacturaSeguridadMonitoreo\\ProyectoArquitectura\\TarkerBooking\\src\\Tarker.Booking.Domain\\obj\\",
+      "outputPath": "D:\\UdemyFull\\ARQUITECTURA\\ArquitacturaSeguridadMonitoreo\\ProyectoArquitectura\\TarkerBooking_Depurado\\src\\Tarker.Booking.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

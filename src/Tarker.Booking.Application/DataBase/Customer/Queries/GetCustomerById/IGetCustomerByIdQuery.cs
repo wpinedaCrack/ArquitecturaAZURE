@@ -1,6 +1,4 @@
-﻿
-
-namespace Tarker.Booking.Application.DataBase.Customer.Queries.GetCustomerById
+﻿namespace Tarker.Booking.Application.DataBase.Customer.Queries.GetCustomerById
 {
     public interface IGetCustomerByIdQuery
     {

@@ -1,5 +1,4 @@
-﻿
-using AutoMapper;
+﻿using AutoMapper;
 using Tarker.Booking.Domain.Entities.Booking;
 
 namespace Tarker.Booking.Application.DataBase.Bookings.Commands.CreateBooking
@@ -9,7 +8,7 @@ namespace Tarker.Booking.Application.DataBase.Bookings.Commands.CreateBooking
         private readonly IDataBaseService _databaseService;
         private readonly IMapper _mapper;
         public CreateBookingCommand(IDataBaseService databaseService,
-            IMapper mapper)
+                                    IMapper mapper)
         {
             _databaseService = databaseService;
             _mapper = mapper;

@@ -153,11 +153,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\UdemyFull\\ARQUITECTURA\\ArquitacturaSeguridadMonitoreo\\ProyectoArquitectura\\TarkerBooking\\src\\Tarker.Booking.External\\Tarker.Booking.External.csproj",
+      "projectUniqueName": "D:\\UdemyFull\\ARQUITECTURA\\ArquitacturaSeguridadMonitoreo\\ProyectoArquitectura\\TarkerBooking_Depurado\\src\\Tarker.Booking.External\\Tarker.Booking.External.csproj",
       "projectName": "Tarker.Booking.External",
-      "projectPath": "D:\\UdemyFull\\ARQUITECTURA\\ArquitacturaSeguridadMonitoreo\\ProyectoArquitectura\\TarkerBooking\\src\\Tarker.Booking.External\\Tarker.Booking.External.csproj",
+      "projectPath": "D:\\UdemyFull\\ARQUITECTURA\\ArquitacturaSeguridadMonitoreo\\ProyectoArquitectura\\TarkerBooking_Depurado\\src\\Tarker.Booking.External\\Tarker.Booking.External.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "D:\\UdemyFull\\ARQUITECTURA\\ArquitacturaSeguridadMonitoreo\\ProyectoArquitectura\\TarkerBooking\\src\\Tarker.Booking.External\\obj\\",
+      "outputPath": "D:\\UdemyFull\\ARQUITECTURA\\ArquitacturaSeguridadMonitoreo\\ProyectoArquitectura\\TarkerBooking_Depurado\\src\\Tarker.Booking.External\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

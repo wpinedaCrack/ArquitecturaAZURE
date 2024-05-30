@@ -1,5 +1,4 @@
-﻿
-namespace Tarker.Booking.Application.DataBase.Bookings.Commands.CreateBooking
+﻿namespace Tarker.Booking.Application.DataBase.Bookings.Commands.CreateBooking
 {
     public class CreateBookingModel
     {

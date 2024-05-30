@@ -1,5 +1,4 @@
-﻿
-using Microsoft.EntityFrameworkCore;
+﻿using Microsoft.EntityFrameworkCore;
 
 namespace Tarker.Booking.Application.DataBase.User.Commands.DeleteUser
 {

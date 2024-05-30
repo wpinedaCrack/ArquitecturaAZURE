@@ -1,5 +1,4 @@
-﻿
-using AutoMapper;
+﻿using AutoMapper;
 using Microsoft.EntityFrameworkCore;
 
 namespace Tarker.Booking.Application.DataBase.Customer.Queries.GetAllCustomers

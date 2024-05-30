@@ -8,7 +8,7 @@ namespace Tarker.Booking.Application.DataBase.Customer.Queries.GetCustomerById
         private readonly IDataBaseService _dataBaseService;
         private readonly IMapper _mapper;
         public GetCustomerByIdQuery(IDataBaseService dataBaseService,
-            IMapper mapper)
+                                    IMapper mapper)
         {
             _dataBaseService = dataBaseService;
             _mapper = mapper;

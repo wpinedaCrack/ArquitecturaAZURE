@@ -1,14 +1,11 @@
-﻿
-using AutoMapper;
-using Microsoft.EntityFrameworkCore;
+﻿using Microsoft.EntityFrameworkCore;
 
 namespace Tarker.Booking.Application.DataBase.Customer.Commands.DeleteCustomer
 {
     public class DeleteCustomerCommand: IDeleteCustomerCommand
     {
         private readonly IDataBaseService _dataBaseService;
-        public DeleteCustomerCommand(IDataBaseService dataBaseService
-            )
+        public DeleteCustomerCommand(IDataBaseService dataBaseService)
         {
             _dataBaseService = dataBaseService;
         }

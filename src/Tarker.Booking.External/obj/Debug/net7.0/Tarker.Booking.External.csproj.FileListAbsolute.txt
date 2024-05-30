@@ -22,3 +22,16 @@ D:\UdemyFull\ARQUITECTURA\ArquitacturaSeguridadMonitoreo\ProyectoArquitectura\Ta
 D:\UdemyFull\ARQUITECTURA\ArquitacturaSeguridadMonitoreo\ProyectoArquitectura\TarkerBooking\src\Tarker.Booking.External\obj\Debug\net7.0\refint\Tarker.Booking.External.dll
 D:\UdemyFull\ARQUITECTURA\ArquitacturaSeguridadMonitoreo\ProyectoArquitectura\TarkerBooking\src\Tarker.Booking.External\obj\Debug\net7.0\Tarker.Booking.External.pdb
 D:\UdemyFull\ARQUITECTURA\ArquitacturaSeguridadMonitoreo\ProyectoArquitectura\TarkerBooking\src\Tarker.Booking.External\obj\Debug\net7.0\ref\Tarker.Booking.External.dll
+D:\UdemyFull\ARQUITECTURA\ArquitacturaSeguridadMonitoreo\ProyectoArquitectura\TarkerBooking_Depurado\src\Tarker.Booking.External\bin\Debug\net7.0\Tarker.Booking.External.deps.json
+D:\UdemyFull\ARQUITECTURA\ArquitacturaSeguridadMonitoreo\ProyectoArquitectura\TarkerBooking_Depurado\src\Tarker.Booking.External\bin\Debug\net7.0\Tarker.Booking.External.dll
+D:\UdemyFull\ARQUITECTURA\ArquitacturaSeguridadMonitoreo\ProyectoArquitectura\TarkerBooking_Depurado\src\Tarker.Booking.External\bin\Debug\net7.0\Tarker.Booking.External.pdb
+D:\UdemyFull\ARQUITECTURA\ArquitacturaSeguridadMonitoreo\ProyectoArquitectura\TarkerBooking_Depurado\src\Tarker.Booking.External\obj\Debug\net7.0\Tarker.Booking.External.csproj.AssemblyReference.cache
+D:\UdemyFull\ARQUITECTURA\ArquitacturaSeguridadMonitoreo\ProyectoArquitectura\TarkerBooking_Depurado\src\Tarker.Booking.External\obj\Debug\net7.0\Tarker.Booking.External.GeneratedMSBuildEditorConfig.editorconfig
+D:\UdemyFull\ARQUITECTURA\ArquitacturaSeguridadMonitoreo\ProyectoArquitectura\TarkerBooking_Depurado\src\Tarker.Booking.External\obj\Debug\net7.0\Tarker.Booking.External.AssemblyInfoInputs.cache
+D:\UdemyFull\ARQUITECTURA\ArquitacturaSeguridadMonitoreo\ProyectoArquitectura\TarkerBooking_Depurado\src\Tarker.Booking.External\obj\Debug\net7.0\Tarker.Booking.External.AssemblyInfo.cs
+D:\UdemyFull\ARQUITECTURA\ArquitacturaSeguridadMonitoreo\ProyectoArquitectura\TarkerBooking_Depurado\src\Tarker.Booking.External\obj\Debug\net7.0\Tarker.Booking.External.csproj.CoreCompileInputs.cache
+D:\UdemyFull\ARQUITECTURA\ArquitacturaSeguridadMonitoreo\ProyectoArquitectura\TarkerBooking_Depurado\src\Tarker.Booking.External\obj\Debug\net7.0\Tarker.Booking.External.sourcelink.json
+D:\UdemyFull\ARQUITECTURA\ArquitacturaSeguridadMonitoreo\ProyectoArquitectura\TarkerBooking_Depurado\src\Tarker.Booking.External\obj\Debug\net7.0\Tarker.Booking.External.dll
+D:\UdemyFull\ARQUITECTURA\ArquitacturaSeguridadMonitoreo\ProyectoArquitectura\TarkerBooking_Depurado\src\Tarker.Booking.External\obj\Debug\net7.0\refint\Tarker.Booking.External.dll
+D:\UdemyFull\ARQUITECTURA\ArquitacturaSeguridadMonitoreo\ProyectoArquitectura\TarkerBooking_Depurado\src\Tarker.Booking.External\obj\Debug\net7.0\Tarker.Booking.External.pdb
+D:\UdemyFull\ARQUITECTURA\ArquitacturaSeguridadMonitoreo\ProyectoArquitectura\TarkerBooking_Depurado\src\Tarker.Booking.External\obj\Debug\net7.0\ref\Tarker.Booking.External.dll

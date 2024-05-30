@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "G69GHM6/PAHS2RfrPIUEgxwOG6Nx/VQxIYZsWg3WpuAyTxuHvMgdZW4JsA0DIuwprdibLcfHT0cfgBVdZrdrRg==",
+  "dgSpecHash": "Hf7Hzm2ugNBnj2NQVi0OttUBC+YlhNhcYuykr0LByX8jrIYsTnWl7cHxY4TYiiVAX7ftTj/a4GdCt2E1ywjWfQ==",
   "success": true,
-  "projectFilePath": "D:\\UdemyFull\\ARQUITECTURA\\ArquitacturaSeguridadMonitoreo\\ProyectoArquitectura\\TarkerBooking\\src\\Tarker.Booking.Domain\\Tarker.Booking.Domain.csproj",
+  "projectFilePath": "D:\\UdemyFull\\ARQUITECTURA\\ArquitacturaSeguridadMonitoreo\\ProyectoArquitectura\\TarkerBooking_Depurado\\src\\Tarker.Booking.Domain\\Tarker.Booking.Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

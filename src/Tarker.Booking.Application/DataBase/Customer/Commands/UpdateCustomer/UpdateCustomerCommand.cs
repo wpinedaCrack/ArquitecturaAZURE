@@ -1,5 +1,4 @@
-﻿
-using AutoMapper;
+﻿using AutoMapper;
 using Tarker.Booking.Domain.Entities.Customer;
 
 namespace Tarker.Booking.Application.DataBase.Customer.Commands.UpdateCustomer
@@ -9,7 +8,7 @@ namespace Tarker.Booking.Application.DataBase.Customer.Commands.UpdateCustomer
         private readonly IDataBaseService _dataBaseService;
         private readonly IMapper _mapper;
         public UpdateCustomerCommand(IDataBaseService dataBaseService,
-            IMapper mapper)
+                                     IMapper mapper)
         {
             _dataBaseService = dataBaseService;
             _mapper = mapper;

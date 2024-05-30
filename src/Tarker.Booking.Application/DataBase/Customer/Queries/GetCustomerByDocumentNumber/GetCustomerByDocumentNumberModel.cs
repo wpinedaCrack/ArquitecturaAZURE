@@ -1,5 +1,4 @@
-﻿
-namespace Tarker.Booking.Application.DataBase.Customer.Queries.GetCustomerByDocumentNumber
+﻿namespace Tarker.Booking.Application.DataBase.Customer.Queries.GetCustomerByDocumentNumber
 {
     public class GetCustomerByDocumentNumberModel
     {

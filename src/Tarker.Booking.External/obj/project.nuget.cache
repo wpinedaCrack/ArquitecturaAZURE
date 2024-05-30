@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Mraj67FEOOfzQx/TMLOsvHIgp91zyp1nMpu0J4vRRrXFGyVpdgaktrZyfHkBr/2wMbGXMUcbB6WRegfQfXJO1g==",
+  "dgSpecHash": "751r6/HF96TiWHDUcDyT2VDPStrYwiaAn9ZhtPz//vzL6tep+AM6UihjLUDL2zONsXDLsGSrhW2AjLcDyxKaHw==",
   "success": true,
-  "projectFilePath": "D:\\UdemyFull\\ARQUITECTURA\\ArquitacturaSeguridadMonitoreo\\ProyectoArquitectura\\TarkerBooking\\src\\Tarker.Booking.External\\Tarker.Booking.External.csproj",
+  "projectFilePath": "D:\\UdemyFull\\ARQUITECTURA\\ArquitacturaSeguridadMonitoreo\\ProyectoArquitectura\\TarkerBooking_Depurado\\src\\Tarker.Booking.External\\Tarker.Booking.External.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\User\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\7.0.0\\microsoft.extensions.configuration.abstractions.7.0.0.nupkg.sha512",
     "C:\\Users\\User\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
