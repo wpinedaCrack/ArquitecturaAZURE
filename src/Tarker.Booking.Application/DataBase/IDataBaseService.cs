@@ -7,7 +7,7 @@ namespace Tarker.Booking.Application.DataBase
 {
     public interface IDataBaseService
     {
-        DbSet<UserEntity> User { get; set; }
+        DbSet<UserEntity> Users { get; set; }
         DbSet<CustomerEntity> Customer { get; set; }
         DbSet<BookingEntity> Booking { get; set; }
         Task<bool> SaveAsync();

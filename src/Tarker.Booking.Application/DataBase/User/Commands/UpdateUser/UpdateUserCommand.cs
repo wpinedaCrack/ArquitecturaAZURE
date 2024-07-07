@@ -17,7 +17,7 @@ namespace Tarker.Booking.Application.DataBase.User.Commands.UpdateUser
         public async Task<UpdateUserModel> Execute(UpdateUserModel model)
         {
             var entity = _mapper.Map<UserEntity>(model);
-            _databaseService.User.Update(entity);
+            _databaseService.Users.Update(entity);
             await _databaseService.SaveAsync();
             return model;
         }

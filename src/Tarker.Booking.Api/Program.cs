@@ -26,14 +26,18 @@
 //    return result;
 //});
 #endregion
+using Microsoft.EntityFrameworkCore;
+using System.Net.Security;
+using System.Net;
 using Tarker.Booking.Api;
 using Tarker.Booking.Application;
+using Tarker.Booking.Application.DataBase;
 using Tarker.Booking.Common;
 using Tarker.Booking.External;
 using Tarker.Booking.Persistence;
+using Tarker.Booking.Persistence.DataBase;
 
 var builder = WebApplication.CreateBuilder(args);
-
 
 builder.Services
     .AddWebApi()

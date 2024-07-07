@@ -146,6 +146,7 @@ D:\UdemyFull\ARQUITECTURA\ArquitacturaSeguridadMonitoreo\ProyectoArquitectura\Ta
 D:\UdemyFull\ARQUITECTURA\ArquitacturaSeguridadMonitoreo\ProyectoArquitectura\TarkerBooking_Depurado\src\Tarker.Booking.Api\obj\Debug\net7.0\Tarker.Booking.Api.AssemblyInfoInputs.cache
 D:\UdemyFull\ARQUITECTURA\ArquitacturaSeguridadMonitoreo\ProyectoArquitectura\TarkerBooking_Depurado\src\Tarker.Booking.Api\obj\Debug\net7.0\Tarker.Booking.Api.AssemblyInfo.cs
 D:\UdemyFull\ARQUITECTURA\ArquitacturaSeguridadMonitoreo\ProyectoArquitectura\TarkerBooking_Depurado\src\Tarker.Booking.Api\obj\Debug\net7.0\Tarker.Booking.Api.csproj.CoreCompileInputs.cache
+D:\UdemyFull\ARQUITECTURA\ArquitacturaSeguridadMonitoreo\ProyectoArquitectura\TarkerBooking_Depurado\src\Tarker.Booking.Api\obj\Debug\net7.0\Tarker.Booking.Api.MvcApplicationPartsAssemblyInfo.cs
 D:\UdemyFull\ARQUITECTURA\ArquitacturaSeguridadMonitoreo\ProyectoArquitectura\TarkerBooking_Depurado\src\Tarker.Booking.Api\obj\Debug\net7.0\Tarker.Booking.Api.MvcApplicationPartsAssemblyInfo.cache
 D:\UdemyFull\ARQUITECTURA\ArquitacturaSeguridadMonitoreo\ProyectoArquitectura\TarkerBooking_Depurado\src\Tarker.Booking.Api\obj\Debug\net7.0\Tarker.Booking.Api.sourcelink.json
 D:\UdemyFull\ARQUITECTURA\ArquitacturaSeguridadMonitoreo\ProyectoArquitectura\TarkerBooking_Depurado\src\Tarker.Booking.Api\obj\Debug\net7.0\staticwebassets.build.json
@@ -162,4 +163,3 @@ D:\UdemyFull\ARQUITECTURA\ArquitacturaSeguridadMonitoreo\ProyectoArquitectura\Ta
 D:\UdemyFull\ARQUITECTURA\ArquitacturaSeguridadMonitoreo\ProyectoArquitectura\TarkerBooking_Depurado\src\Tarker.Booking.Api\obj\Debug\net7.0\Tarker.Booking.Api.pdb
 D:\UdemyFull\ARQUITECTURA\ArquitacturaSeguridadMonitoreo\ProyectoArquitectura\TarkerBooking_Depurado\src\Tarker.Booking.Api\obj\Debug\net7.0\Tarker.Booking.Api.genruntimeconfig.cache
 D:\UdemyFull\ARQUITECTURA\ArquitacturaSeguridadMonitoreo\ProyectoArquitectura\TarkerBooking_Depurado\src\Tarker.Booking.Api\obj\Debug\net7.0\ref\Tarker.Booking.Api.dll
-D:\UdemyFull\ARQUITECTURA\ArquitacturaSeguridadMonitoreo\ProyectoArquitectura\TarkerBooking_Depurado\src\Tarker.Booking.Api\obj\Debug\net7.0\Tarker.Booking.Api.MvcApplicationPartsAssemblyInfo.cs

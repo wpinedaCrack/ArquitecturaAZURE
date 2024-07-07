@@ -15,7 +15,7 @@ namespace Tarker.Booking.Application.DataBase.User.Queries.GetAllUser
         }
         public async Task<List<GetAllUserModel>> Execute()
         {
-            var listEntity = await _dataBaseService.User.ToListAsync();
+            var listEntity = await _dataBaseService.Users.ToListAsync();
             return _mapper.Map<List<GetAllUserModel>>(listEntity);
         }
     }

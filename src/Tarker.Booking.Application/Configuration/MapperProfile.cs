@@ -3,6 +3,8 @@ using Tarker.Booking.Application.DataBase.Bookings.Commands.CreateBooking;
 using Tarker.Booking.Application.DataBase.Customer.Commands.CreateCustomer;
 using Tarker.Booking.Application.DataBase.Customer.Commands.UpdateCustomer;
 using Tarker.Booking.Application.DataBase.Customer.Queries.GetAllCustomers;
+using Tarker.Booking.Application.DataBase.Customer.Queries.GetCustomerByDocumentNumber;
+using Tarker.Booking.Application.DataBase.Customer.Queries.GetCustomerById;
 using Tarker.Booking.Application.DataBase.User.Commands.CreateUser;
 using Tarker.Booking.Application.DataBase.User.Commands.UpdateUser;
 using Tarker.Booking.Application.DataBase.User.Queries.GetAllUser;
@@ -31,12 +33,17 @@ namespace Tarker.Booking.Application.Configuration
             CreateMap<CustomerEntity, CreateCustomerModel>().ReverseMap();
             CreateMap<CustomerEntity, UpdateCustomerModel>().ReverseMap();
             CreateMap<CustomerEntity, GetAllCustomerModel>().ReverseMap();
+            CreateMap<CustomerEntity, GetCustomerByIdModel>().ReverseMap();
+            CreateMap<CustomerEntity, GetCustomerByDocumentNumberModel>().ReverseMap();
             CreateMap<UserEntity, GetUserByIdModel>().ReverseMap();
             CreateMap<UserEntity, GetUserByUserNameAndPasswordModel>().ReverseMap();
             #endregion
 
             #region Booking
             CreateMap<BookingEntity, CreateBookingModel>().ReverseMap();
+            //CreateMap<BookingEntity, GetAllBookingsModel>().ReverseMap();
+            //CreateMap<BookingEntity, GetBookingsByDocumentNumberModel>().ReverseMap();
+            //CreateMap<BookingEntity, GetBookingsByTypeModel>().ReverseMap();
             #endregion
 
             //#region Validator
