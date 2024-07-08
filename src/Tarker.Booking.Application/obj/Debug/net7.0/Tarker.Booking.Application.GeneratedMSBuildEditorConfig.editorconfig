@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Tarker.Booking.Application
-build_property.ProjectDir = D:\UdemyFull\ARQUITECTURA\ArquitacturaSeguridadMonitoreo\ProyectoArquitectura\TarkerBooking_Depurado\src\Tarker.Booking.Application\
+build_property.ProjectDir = C:\udemy\Arquitectura\Azure002\src\Tarker.Booking.Application\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

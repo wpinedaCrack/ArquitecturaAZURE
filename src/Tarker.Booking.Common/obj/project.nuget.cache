@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "3MT08L/n42kmO6w9Er4SS5/UyCLogF+5Cc60HP30qChQPT691yd+jF9Lp+faYP72lVO2w9MO3twWPqZvfoouwA==",
+  "dgSpecHash": "O6pb87aVU0w=",
   "success": true,
-  "projectFilePath": "D:\\UdemyFull\\ARQUITECTURA\\ArquitacturaSeguridadMonitoreo\\ProyectoArquitectura\\TarkerBooking_Depurado\\src\\Tarker.Booking.Common\\Tarker.Booking.Common.csproj",
+  "projectFilePath": "C:\\udemy\\Arquitectura\\Azure002\\src\\Tarker.Booking.Common\\Tarker.Booking.Common.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\User\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512"
+    "C:\\Users\\luish\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512"
   ],
   "logs": []
 }

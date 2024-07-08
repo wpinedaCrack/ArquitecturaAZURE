@@ -1,4 +1,4 @@
-﻿using Microsoft.AspNetCore.Http;
+﻿using FluentValidation;
 using Microsoft.AspNetCore.Mvc;
 using Tarker.Booking.Application.DataBase.Customer.Commands.CreateCustomer;
 using Tarker.Booking.Application.DataBase.Customer.Commands.DeleteCustomer;
@@ -19,8 +19,14 @@ namespace Tarker.Booking.Api.Controllers
         [HttpPost("create")]
         public async Task<IActionResult> Create(
             [FromBody] CreateCustomerModel model,
-            [FromServices] ICreateCustomerCommand createCustomerCommand)
+            [FromServices] ICreateCustomerCommand createCustomerCommand,
+            [FromServices] IValidator<CreateCustomerModel> validator)
         {
+            var validate = await validator.ValidateAsync(model);
+
+            if (!validate.IsValid)
+                return StatusCode(StatusCodes.Status400BadRequest, ResponseApiService.Response(StatusCodes.Status400BadRequest, validate.Errors));
+
             var data = await createCustomerCommand.Execute(model);
             return StatusCode(StatusCodes.Status201Created, ResponseApiService.Response(StatusCodes.Status201Created, data));
         }
@@ -28,8 +34,14 @@ namespace Tarker.Booking.Api.Controllers
         [HttpPut("update")]
         public async Task<IActionResult> Update(
             [FromBody] UpdateCustomerModel model,
-            [FromServices] IUpdateCustomerCommand updateCustomerCommand)
+            [FromServices] IUpdateCustomerCommand updateCustomerCommand,
+            [FromServices] IValidator<UpdateCustomerModel> validator)
         {
+            var validate = await validator.ValidateAsync(model);
+
+            if (!validate.IsValid)
+                return StatusCode(StatusCodes.Status400BadRequest, ResponseApiService.Response(StatusCodes.Status400BadRequest, validate.Errors));
+
             var data = await updateCustomerCommand.Execute(model);
             return StatusCode(StatusCodes.Status200OK, ResponseApiService.Response(StatusCodes.Status200OK, data));
         }
@@ -90,9 +102,6 @@ namespace Tarker.Booking.Api.Controllers
                 return StatusCode(StatusCodes.Status404NotFound, ResponseApiService.Response(StatusCodes.Status404NotFound));
 
             return StatusCode(StatusCodes.Status200OK, ResponseApiService.Response(StatusCodes.Status200OK, data));
-
-
         }
-
     }
 }

@@ -35,3 +35,16 @@ D:\UdemyFull\ARQUITECTURA\ArquitacturaSeguridadMonitoreo\ProyectoArquitectura\Ta
 D:\UdemyFull\ARQUITECTURA\ArquitacturaSeguridadMonitoreo\ProyectoArquitectura\TarkerBooking_Depurado\src\Tarker.Booking.External\obj\Debug\net7.0\refint\Tarker.Booking.External.dll
 D:\UdemyFull\ARQUITECTURA\ArquitacturaSeguridadMonitoreo\ProyectoArquitectura\TarkerBooking_Depurado\src\Tarker.Booking.External\obj\Debug\net7.0\Tarker.Booking.External.pdb
 D:\UdemyFull\ARQUITECTURA\ArquitacturaSeguridadMonitoreo\ProyectoArquitectura\TarkerBooking_Depurado\src\Tarker.Booking.External\obj\Debug\net7.0\ref\Tarker.Booking.External.dll
+C:\udemy\Arquitectura\Azure002\src\Tarker.Booking.External\bin\Debug\net7.0\Tarker.Booking.External.deps.json
+C:\udemy\Arquitectura\Azure002\src\Tarker.Booking.External\bin\Debug\net7.0\Tarker.Booking.External.dll
+C:\udemy\Arquitectura\Azure002\src\Tarker.Booking.External\bin\Debug\net7.0\Tarker.Booking.External.pdb
+C:\udemy\Arquitectura\Azure002\src\Tarker.Booking.External\obj\Debug\net7.0\Tarker.Booking.External.csproj.AssemblyReference.cache
+C:\udemy\Arquitectura\Azure002\src\Tarker.Booking.External\obj\Debug\net7.0\Tarker.Booking.External.GeneratedMSBuildEditorConfig.editorconfig
+C:\udemy\Arquitectura\Azure002\src\Tarker.Booking.External\obj\Debug\net7.0\Tarker.Booking.External.AssemblyInfoInputs.cache
+C:\udemy\Arquitectura\Azure002\src\Tarker.Booking.External\obj\Debug\net7.0\Tarker.Booking.External.AssemblyInfo.cs
+C:\udemy\Arquitectura\Azure002\src\Tarker.Booking.External\obj\Debug\net7.0\Tarker.Booking.External.csproj.CoreCompileInputs.cache
+C:\udemy\Arquitectura\Azure002\src\Tarker.Booking.External\obj\Debug\net7.0\Tarker.Booking.External.sourcelink.json
+C:\udemy\Arquitectura\Azure002\src\Tarker.Booking.External\obj\Debug\net7.0\Tarker.Booking.External.dll
+C:\udemy\Arquitectura\Azure002\src\Tarker.Booking.External\obj\Debug\net7.0\refint\Tarker.Booking.External.dll
+C:\udemy\Arquitectura\Azure002\src\Tarker.Booking.External\obj\Debug\net7.0\Tarker.Booking.External.pdb
+C:\udemy\Arquitectura\Azure002\src\Tarker.Booking.External\obj\Debug\net7.0\ref\Tarker.Booking.External.dll
