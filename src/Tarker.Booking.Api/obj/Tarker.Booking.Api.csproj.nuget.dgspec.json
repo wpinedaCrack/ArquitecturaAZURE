@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\udemy\\Arquitectura\\Azure002\\src\\Tarker.Booking.Api\\Tarker.Booking.Api.csproj": {}
+    "D:\\UdemyFull\\ARQUITECTURA\\ArquitacturaSeguridadMonitoreo\\ProyectoArquitectura\\TarkerMejor\\src\\Tarker.Booking.Api\\Tarker.Booking.Api.csproj": {}
   },
   "projects": {
-    "C:\\udemy\\Arquitectura\\Azure002\\src\\Tarker.Booking.Api\\Tarker.Booking.Api.csproj": {
+    "D:\\UdemyFull\\ARQUITECTURA\\ArquitacturaSeguridadMonitoreo\\ProyectoArquitectura\\TarkerMejor\\src\\Tarker.Booking.Api\\Tarker.Booking.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\udemy\\Arquitectura\\Azure002\\src\\Tarker.Booking.Api\\Tarker.Booking.Api.csproj",
+        "projectUniqueName": "D:\\UdemyFull\\ARQUITECTURA\\ArquitacturaSeguridadMonitoreo\\ProyectoArquitectura\\TarkerMejor\\src\\Tarker.Booking.Api\\Tarker.Booking.Api.csproj",
         "projectName": "Tarker.Booking.Api",
-        "projectPath": "C:\\udemy\\Arquitectura\\Azure002\\src\\Tarker.Booking.Api\\Tarker.Booking.Api.csproj",
-        "packagesPath": "C:\\Users\\luish\\.nuget\\packages\\",
-        "outputPath": "C:\\udemy\\Arquitectura\\Azure002\\src\\Tarker.Booking.Api\\obj\\",
+        "projectPath": "D:\\UdemyFull\\ARQUITECTURA\\ArquitacturaSeguridadMonitoreo\\ProyectoArquitectura\\TarkerMejor\\src\\Tarker.Booking.Api\\Tarker.Booking.Api.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "D:\\UdemyFull\\ARQUITECTURA\\ArquitacturaSeguridadMonitoreo\\ProyectoArquitectura\\TarkerMejor\\src\\Tarker.Booking.Api\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\luish\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -33,17 +33,17 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\udemy\\Arquitectura\\Azure002\\src\\Tarker.Booking.Application\\Tarker.Booking.Application.csproj": {
-                "projectPath": "C:\\udemy\\Arquitectura\\Azure002\\src\\Tarker.Booking.Application\\Tarker.Booking.Application.csproj"
+              "D:\\UdemyFull\\ARQUITECTURA\\ArquitacturaSeguridadMonitoreo\\ProyectoArquitectura\\TarkerMejor\\src\\Tarker.Booking.Application\\Tarker.Booking.Application.csproj": {
+                "projectPath": "D:\\UdemyFull\\ARQUITECTURA\\ArquitacturaSeguridadMonitoreo\\ProyectoArquitectura\\TarkerMejor\\src\\Tarker.Booking.Application\\Tarker.Booking.Application.csproj"
               },
-              "C:\\udemy\\Arquitectura\\Azure002\\src\\Tarker.Booking.Common\\Tarker.Booking.Common.csproj": {
-                "projectPath": "C:\\udemy\\Arquitectura\\Azure002\\src\\Tarker.Booking.Common\\Tarker.Booking.Common.csproj"
+              "D:\\UdemyFull\\ARQUITECTURA\\ArquitacturaSeguridadMonitoreo\\ProyectoArquitectura\\TarkerMejor\\src\\Tarker.Booking.Common\\Tarker.Booking.Common.csproj": {
+                "projectPath": "D:\\UdemyFull\\ARQUITECTURA\\ArquitacturaSeguridadMonitoreo\\ProyectoArquitectura\\TarkerMejor\\src\\Tarker.Booking.Common\\Tarker.Booking.Common.csproj"
               },
-              "C:\\udemy\\Arquitectura\\Azure002\\src\\Tarker.Booking.External\\Tarker.Booking.External.csproj": {
-                "projectPath": "C:\\udemy\\Arquitectura\\Azure002\\src\\Tarker.Booking.External\\Tarker.Booking.External.csproj"
+              "D:\\UdemyFull\\ARQUITECTURA\\ArquitacturaSeguridadMonitoreo\\ProyectoArquitectura\\TarkerMejor\\src\\Tarker.Booking.External\\Tarker.Booking.External.csproj": {
+                "projectPath": "D:\\UdemyFull\\ARQUITECTURA\\ArquitacturaSeguridadMonitoreo\\ProyectoArquitectura\\TarkerMejor\\src\\Tarker.Booking.External\\Tarker.Booking.External.csproj"
               },
-              "C:\\udemy\\Arquitectura\\Azure002\\src\\Tarker.Booking.Persistence\\Tarker.Booking.Persistence.csproj": {
-                "projectPath": "C:\\udemy\\Arquitectura\\Azure002\\src\\Tarker.Booking.Persistence\\Tarker.Booking.Persistence.csproj"
+              "D:\\UdemyFull\\ARQUITECTURA\\ArquitacturaSeguridadMonitoreo\\ProyectoArquitectura\\TarkerMejor\\src\\Tarker.Booking.Persistence\\Tarker.Booking.Persistence.csproj": {
+                "projectPath": "D:\\UdemyFull\\ARQUITECTURA\\ArquitacturaSeguridadMonitoreo\\ProyectoArquitectura\\TarkerMejor\\src\\Tarker.Booking.Persistence\\Tarker.Booking.Persistence.csproj"
               }
             }
           }
@@ -73,17 +73,17 @@
             },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[7.0.18, )"
+              "version": "[7.0.20, )"
             },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
-              "version": "[7.0.18, )"
+              "version": "[7.0.20, )"
             },
             "Microsoft.EntityFrameworkCore.Tools": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
-              "version": "[7.0.18, )"
+              "version": "[7.0.20, )"
             }
           },
           "imports": [
@@ -105,24 +105,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.205\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\udemy\\Arquitectura\\Azure002\\src\\Tarker.Booking.Application\\Tarker.Booking.Application.csproj": {
+    "D:\\UdemyFull\\ARQUITECTURA\\ArquitacturaSeguridadMonitoreo\\ProyectoArquitectura\\TarkerMejor\\src\\Tarker.Booking.Application\\Tarker.Booking.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\udemy\\Arquitectura\\Azure002\\src\\Tarker.Booking.Application\\Tarker.Booking.Application.csproj",
+        "projectUniqueName": "D:\\UdemyFull\\ARQUITECTURA\\ArquitacturaSeguridadMonitoreo\\ProyectoArquitectura\\TarkerMejor\\src\\Tarker.Booking.Application\\Tarker.Booking.Application.csproj",
         "projectName": "Tarker.Booking.Application",
-        "projectPath": "C:\\udemy\\Arquitectura\\Azure002\\src\\Tarker.Booking.Application\\Tarker.Booking.Application.csproj",
-        "packagesPath": "C:\\Users\\luish\\.nuget\\packages\\",
-        "outputPath": "C:\\udemy\\Arquitectura\\Azure002\\src\\Tarker.Booking.Application\\obj\\",
+        "projectPath": "D:\\UdemyFull\\ARQUITECTURA\\ArquitacturaSeguridadMonitoreo\\ProyectoArquitectura\\TarkerMejor\\src\\Tarker.Booking.Application\\Tarker.Booking.Application.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "D:\\UdemyFull\\ARQUITECTURA\\ArquitacturaSeguridadMonitoreo\\ProyectoArquitectura\\TarkerMejor\\src\\Tarker.Booking.Application\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\luish\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -138,8 +138,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\udemy\\Arquitectura\\Azure002\\src\\Tarker.Booking.Domain\\Tarker.Booking.Domain.csproj": {
-                "projectPath": "C:\\udemy\\Arquitectura\\Azure002\\src\\Tarker.Booking.Domain\\Tarker.Booking.Domain.csproj"
+              "D:\\UdemyFull\\ARQUITECTURA\\ArquitacturaSeguridadMonitoreo\\ProyectoArquitectura\\TarkerMejor\\src\\Tarker.Booking.Domain\\Tarker.Booking.Domain.csproj": {
+                "projectPath": "D:\\UdemyFull\\ARQUITECTURA\\ArquitacturaSeguridadMonitoreo\\ProyectoArquitectura\\TarkerMejor\\src\\Tarker.Booking.Domain\\Tarker.Booking.Domain.csproj"
               }
             }
           }
@@ -177,11 +177,17 @@
             },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[7.0.18, )"
+              "version": "[7.0.20, )"
             },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
-              "version": "[7.0.18, )"
+              "version": "[7.0.20, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.20, )"
             }
           },
           "imports": [
@@ -200,24 +206,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.205\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\udemy\\Arquitectura\\Azure002\\src\\Tarker.Booking.Common\\Tarker.Booking.Common.csproj": {
+    "D:\\UdemyFull\\ARQUITECTURA\\ArquitacturaSeguridadMonitoreo\\ProyectoArquitectura\\TarkerMejor\\src\\Tarker.Booking.Common\\Tarker.Booking.Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\udemy\\Arquitectura\\Azure002\\src\\Tarker.Booking.Common\\Tarker.Booking.Common.csproj",
+        "projectUniqueName": "D:\\UdemyFull\\ARQUITECTURA\\ArquitacturaSeguridadMonitoreo\\ProyectoArquitectura\\TarkerMejor\\src\\Tarker.Booking.Common\\Tarker.Booking.Common.csproj",
         "projectName": "Tarker.Booking.Common",
-        "projectPath": "C:\\udemy\\Arquitectura\\Azure002\\src\\Tarker.Booking.Common\\Tarker.Booking.Common.csproj",
-        "packagesPath": "C:\\Users\\luish\\.nuget\\packages\\",
-        "outputPath": "C:\\udemy\\Arquitectura\\Azure002\\src\\Tarker.Booking.Common\\obj\\",
+        "projectPath": "D:\\UdemyFull\\ARQUITECTURA\\ArquitacturaSeguridadMonitoreo\\ProyectoArquitectura\\TarkerMejor\\src\\Tarker.Booking.Common\\Tarker.Booking.Common.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "D:\\UdemyFull\\ARQUITECTURA\\ArquitacturaSeguridadMonitoreo\\ProyectoArquitectura\\TarkerMejor\\src\\Tarker.Booking.Common\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\luish\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -271,24 +277,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.205\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\udemy\\Arquitectura\\Azure002\\src\\Tarker.Booking.Domain\\Tarker.Booking.Domain.csproj": {
+    "D:\\UdemyFull\\ARQUITECTURA\\ArquitacturaSeguridadMonitoreo\\ProyectoArquitectura\\TarkerMejor\\src\\Tarker.Booking.Domain\\Tarker.Booking.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\udemy\\Arquitectura\\Azure002\\src\\Tarker.Booking.Domain\\Tarker.Booking.Domain.csproj",
+        "projectUniqueName": "D:\\UdemyFull\\ARQUITECTURA\\ArquitacturaSeguridadMonitoreo\\ProyectoArquitectura\\TarkerMejor\\src\\Tarker.Booking.Domain\\Tarker.Booking.Domain.csproj",
         "projectName": "Tarker.Booking.Domain",
-        "projectPath": "C:\\udemy\\Arquitectura\\Azure002\\src\\Tarker.Booking.Domain\\Tarker.Booking.Domain.csproj",
-        "packagesPath": "C:\\Users\\luish\\.nuget\\packages\\",
-        "outputPath": "C:\\udemy\\Arquitectura\\Azure002\\src\\Tarker.Booking.Domain\\obj\\",
+        "projectPath": "D:\\UdemyFull\\ARQUITECTURA\\ArquitacturaSeguridadMonitoreo\\ProyectoArquitectura\\TarkerMejor\\src\\Tarker.Booking.Domain\\Tarker.Booking.Domain.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "D:\\UdemyFull\\ARQUITECTURA\\ArquitacturaSeguridadMonitoreo\\ProyectoArquitectura\\TarkerMejor\\src\\Tarker.Booking.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\luish\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -336,24 +342,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.205\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\udemy\\Arquitectura\\Azure002\\src\\Tarker.Booking.External\\Tarker.Booking.External.csproj": {
+    "D:\\UdemyFull\\ARQUITECTURA\\ArquitacturaSeguridadMonitoreo\\ProyectoArquitectura\\TarkerMejor\\src\\Tarker.Booking.External\\Tarker.Booking.External.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\udemy\\Arquitectura\\Azure002\\src\\Tarker.Booking.External\\Tarker.Booking.External.csproj",
+        "projectUniqueName": "D:\\UdemyFull\\ARQUITECTURA\\ArquitacturaSeguridadMonitoreo\\ProyectoArquitectura\\TarkerMejor\\src\\Tarker.Booking.External\\Tarker.Booking.External.csproj",
         "projectName": "Tarker.Booking.External",
-        "projectPath": "C:\\udemy\\Arquitectura\\Azure002\\src\\Tarker.Booking.External\\Tarker.Booking.External.csproj",
-        "packagesPath": "C:\\Users\\luish\\.nuget\\packages\\",
-        "outputPath": "C:\\udemy\\Arquitectura\\Azure002\\src\\Tarker.Booking.External\\obj\\",
+        "projectPath": "D:\\UdemyFull\\ARQUITECTURA\\ArquitacturaSeguridadMonitoreo\\ProyectoArquitectura\\TarkerMejor\\src\\Tarker.Booking.External\\Tarker.Booking.External.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "D:\\UdemyFull\\ARQUITECTURA\\ArquitacturaSeguridadMonitoreo\\ProyectoArquitectura\\TarkerMejor\\src\\Tarker.Booking.External\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\luish\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -368,7 +374,14 @@
         "frameworks": {
           "net7.0": {
             "targetAlias": "net7.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "D:\\UdemyFull\\ARQUITECTURA\\ArquitacturaSeguridadMonitoreo\\ProyectoArquitectura\\TarkerMejor\\src\\Tarker.Booking.Application\\Tarker.Booking.Application.csproj": {
+                "projectPath": "D:\\UdemyFull\\ARQUITECTURA\\ArquitacturaSeguridadMonitoreo\\ProyectoArquitectura\\TarkerMejor\\src\\Tarker.Booking.Application\\Tarker.Booking.Application.csproj"
+              },
+              "D:\\UdemyFull\\ARQUITECTURA\\ArquitacturaSeguridadMonitoreo\\ProyectoArquitectura\\TarkerMejor\\src\\Tarker.Booking.Persistence\\Tarker.Booking.Persistence.csproj": {
+                "projectPath": "D:\\UdemyFull\\ARQUITECTURA\\ArquitacturaSeguridadMonitoreo\\ProyectoArquitectura\\TarkerMejor\\src\\Tarker.Booking.Persistence\\Tarker.Booking.Persistence.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
@@ -411,24 +424,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.205\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\udemy\\Arquitectura\\Azure002\\src\\Tarker.Booking.Persistence\\Tarker.Booking.Persistence.csproj": {
+    "D:\\UdemyFull\\ARQUITECTURA\\ArquitacturaSeguridadMonitoreo\\ProyectoArquitectura\\TarkerMejor\\src\\Tarker.Booking.Persistence\\Tarker.Booking.Persistence.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\udemy\\Arquitectura\\Azure002\\src\\Tarker.Booking.Persistence\\Tarker.Booking.Persistence.csproj",
+        "projectUniqueName": "D:\\UdemyFull\\ARQUITECTURA\\ArquitacturaSeguridadMonitoreo\\ProyectoArquitectura\\TarkerMejor\\src\\Tarker.Booking.Persistence\\Tarker.Booking.Persistence.csproj",
         "projectName": "Tarker.Booking.Persistence",
-        "projectPath": "C:\\udemy\\Arquitectura\\Azure002\\src\\Tarker.Booking.Persistence\\Tarker.Booking.Persistence.csproj",
-        "packagesPath": "C:\\Users\\luish\\.nuget\\packages\\",
-        "outputPath": "C:\\udemy\\Arquitectura\\Azure002\\src\\Tarker.Booking.Persistence\\obj\\",
+        "projectPath": "D:\\UdemyFull\\ARQUITECTURA\\ArquitacturaSeguridadMonitoreo\\ProyectoArquitectura\\TarkerMejor\\src\\Tarker.Booking.Persistence\\Tarker.Booking.Persistence.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "D:\\UdemyFull\\ARQUITECTURA\\ArquitacturaSeguridadMonitoreo\\ProyectoArquitectura\\TarkerMejor\\src\\Tarker.Booking.Persistence\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\luish\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -444,11 +457,11 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\udemy\\Arquitectura\\Azure002\\src\\Tarker.Booking.Application\\Tarker.Booking.Application.csproj": {
-                "projectPath": "C:\\udemy\\Arquitectura\\Azure002\\src\\Tarker.Booking.Application\\Tarker.Booking.Application.csproj"
+              "D:\\UdemyFull\\ARQUITECTURA\\ArquitacturaSeguridadMonitoreo\\ProyectoArquitectura\\TarkerMejor\\src\\Tarker.Booking.Application\\Tarker.Booking.Application.csproj": {
+                "projectPath": "D:\\UdemyFull\\ARQUITECTURA\\ArquitacturaSeguridadMonitoreo\\ProyectoArquitectura\\TarkerMejor\\src\\Tarker.Booking.Application\\Tarker.Booking.Application.csproj"
               },
-              "C:\\udemy\\Arquitectura\\Azure002\\src\\Tarker.Booking.Domain\\Tarker.Booking.Domain.csproj": {
-                "projectPath": "C:\\udemy\\Arquitectura\\Azure002\\src\\Tarker.Booking.Domain\\Tarker.Booking.Domain.csproj"
+              "D:\\UdemyFull\\ARQUITECTURA\\ArquitacturaSeguridadMonitoreo\\ProyectoArquitectura\\TarkerMejor\\src\\Tarker.Booking.Domain\\Tarker.Booking.Domain.csproj": {
+                "projectPath": "D:\\UdemyFull\\ARQUITECTURA\\ArquitacturaSeguridadMonitoreo\\ProyectoArquitectura\\TarkerMejor\\src\\Tarker.Booking.Domain\\Tarker.Booking.Domain.csproj"
               }
             }
           }
@@ -470,7 +483,17 @@
           "dependencies": {
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[7.0.18, )"
+              "version": "[7.0.20, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.20, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
             }
           },
           "imports": [
@@ -489,7 +512,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.205\\RuntimeIdentifierGraph.json"
         }
       }
     }

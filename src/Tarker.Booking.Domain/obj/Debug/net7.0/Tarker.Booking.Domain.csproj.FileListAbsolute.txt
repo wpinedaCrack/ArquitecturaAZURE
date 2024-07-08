@@ -56,3 +56,15 @@ C:\udemy\Arquitectura\Azure002\src\Tarker.Booking.Domain\obj\Debug\net7.0\Tarker
 C:\udemy\Arquitectura\Azure002\src\Tarker.Booking.Domain\obj\Debug\net7.0\refint\Tarker.Booking.Domain.dll
 C:\udemy\Arquitectura\Azure002\src\Tarker.Booking.Domain\obj\Debug\net7.0\Tarker.Booking.Domain.pdb
 C:\udemy\Arquitectura\Azure002\src\Tarker.Booking.Domain\obj\Debug\net7.0\ref\Tarker.Booking.Domain.dll
+D:\UdemyFull\ARQUITECTURA\ArquitacturaSeguridadMonitoreo\ProyectoArquitectura\TarkerMejor\src\Tarker.Booking.Domain\bin\Debug\net7.0\Tarker.Booking.Domain.deps.json
+D:\UdemyFull\ARQUITECTURA\ArquitacturaSeguridadMonitoreo\ProyectoArquitectura\TarkerMejor\src\Tarker.Booking.Domain\bin\Debug\net7.0\Tarker.Booking.Domain.dll
+D:\UdemyFull\ARQUITECTURA\ArquitacturaSeguridadMonitoreo\ProyectoArquitectura\TarkerMejor\src\Tarker.Booking.Domain\bin\Debug\net7.0\Tarker.Booking.Domain.pdb
+D:\UdemyFull\ARQUITECTURA\ArquitacturaSeguridadMonitoreo\ProyectoArquitectura\TarkerMejor\src\Tarker.Booking.Domain\obj\Debug\net7.0\Tarker.Booking.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\UdemyFull\ARQUITECTURA\ArquitacturaSeguridadMonitoreo\ProyectoArquitectura\TarkerMejor\src\Tarker.Booking.Domain\obj\Debug\net7.0\Tarker.Booking.Domain.AssemblyInfoInputs.cache
+D:\UdemyFull\ARQUITECTURA\ArquitacturaSeguridadMonitoreo\ProyectoArquitectura\TarkerMejor\src\Tarker.Booking.Domain\obj\Debug\net7.0\Tarker.Booking.Domain.AssemblyInfo.cs
+D:\UdemyFull\ARQUITECTURA\ArquitacturaSeguridadMonitoreo\ProyectoArquitectura\TarkerMejor\src\Tarker.Booking.Domain\obj\Debug\net7.0\Tarker.Booking.Domain.csproj.CoreCompileInputs.cache
+D:\UdemyFull\ARQUITECTURA\ArquitacturaSeguridadMonitoreo\ProyectoArquitectura\TarkerMejor\src\Tarker.Booking.Domain\obj\Debug\net7.0\Tarker.Booking.Domain.sourcelink.json
+D:\UdemyFull\ARQUITECTURA\ArquitacturaSeguridadMonitoreo\ProyectoArquitectura\TarkerMejor\src\Tarker.Booking.Domain\obj\Debug\net7.0\Tarker.Booking.Domain.dll
+D:\UdemyFull\ARQUITECTURA\ArquitacturaSeguridadMonitoreo\ProyectoArquitectura\TarkerMejor\src\Tarker.Booking.Domain\obj\Debug\net7.0\refint\Tarker.Booking.Domain.dll
+D:\UdemyFull\ARQUITECTURA\ArquitacturaSeguridadMonitoreo\ProyectoArquitectura\TarkerMejor\src\Tarker.Booking.Domain\obj\Debug\net7.0\Tarker.Booking.Domain.pdb
+D:\UdemyFull\ARQUITECTURA\ArquitacturaSeguridadMonitoreo\ProyectoArquitectura\TarkerMejor\src\Tarker.Booking.Domain\obj\Debug\net7.0\ref\Tarker.Booking.Domain.dll

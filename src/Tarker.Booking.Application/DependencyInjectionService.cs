@@ -61,7 +61,7 @@ namespace Tarker.Booking.Application
             services.AddTransient<IGetBookingsByTypeQuery, GetBookingsByTypeQuery>();
             #endregion
 
-            #region Validator
+            #region Validatores
             services.AddScoped<IValidator<CreateUserModel>, CreateUserValidator>();
             services.AddScoped<IValidator<UpdateUserModel>, UpdateUserValidator>();
             services.AddScoped<IValidator<UpdateUserPasswordModel>, UpdateUserPasswordValidator>();
@@ -73,6 +73,18 @@ namespace Tarker.Booking.Application
 
             services.AddScoped<IValidator<CreateBookingModel>, CreateBookingValidator>();
             #endregion
+            //#region Validator
+            //services.AddScoped<IValidator<CreateUserModel>, CreateUserValidator>();
+            //services.AddScoped<IValidator<UpdateUserModel>, UpdateUserValidator>();
+            //services.AddScoped<IValidator<UpdateUserPasswordModel>, UpdateUserPasswordValidator>();
+            //services.AddScoped<IValidator<(string, string)>, GetUserByUserNameAndPasswordValidator>();
+
+            //services.AddScoped<IValidator<CreateCustomerModel>, CreateCustomerValidator>();
+            //services.AddScoped<IValidator<UpdateCustomerModel>, UpdateCustomerValidator>();
+
+
+            //services.AddScoped<IValidator<CreateBookingModel>, CreateBookingValidator>();
+            //#endregion
 
             return services;
         }
