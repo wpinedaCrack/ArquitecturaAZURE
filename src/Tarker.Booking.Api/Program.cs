@@ -26,16 +26,14 @@
 //    return result;
 //});
 #endregion
-using Microsoft.EntityFrameworkCore;
-using System.Net.Security;
-using System.Net;
+using Azure.Identity;
+using Azure.Security.KeyVault.Secrets;
+using Microsoft.AspNetCore.Components.Forms;
 using Tarker.Booking.Api;
 using Tarker.Booking.Application;
-using Tarker.Booking.Application.DataBase;
 using Tarker.Booking.Common;
 using Tarker.Booking.External;
 using Tarker.Booking.Persistence;
-using Tarker.Booking.Persistence.DataBase;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -47,6 +45,25 @@ builder.Services
     .AddPersistence(builder.Configuration);
 
 builder.Services.AddControllers();
+
+var keyVaultUrl = builder.Configuration["keyVaultUrl"] ?? string.Empty;
+
+if (Environment.GetEnvironmentVariable("ASPNETCORE_ENVIRONMENT") == "local")
+{
+    string tenantId = Environment.GetEnvironmentVariable("tenantId") ?? string.Empty;
+    string clientId = Environment.GetEnvironmentVariable("clientId") ?? string.Empty;
+    string clientSecret = Environment.GetEnvironmentVariable("clientSecret") ?? string.Empty;
+
+    //var tokenCredentials = new ClientSecretCredential(tenantId, clientId, clientSecret);  habilitar cuando tenga azure
+    //builder.Configuration.AddAzureKeyVault(new Uri(keyVaultUrl), tokenCredentials);
+}
+else
+{
+    //builder.Configuration.AddAzureKeyVault(new Uri(keyVaultUrl), new DefaultAzureCredential());
+}
+
+//var SQL = builder.Configuration["SQLConnectionStrings"];  //trae valor del secreto de azure
+//var sendGrid = builder.Configuration["SendGridEmailKey"];
 
 var app = builder.Build();
 app.MapControllers();

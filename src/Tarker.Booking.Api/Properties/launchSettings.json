@@ -16,7 +16,10 @@
       "launchUrl": "",
       "applicationUrl": "http://localhost:5172",
       "environmentVariables": {
-        "ASPNETCORE_ENVIRONMENT": "Development"
+        "ASPNETCORE_ENVIRONMENT": "local", //develoment
+        "clientId": "",
+        "tenantId": "",
+        "clientSecret": ""
       }
     },
     "IIS Express": {
@@ -24,7 +27,10 @@
       "launchBrowser": true,
       "launchUrl": "",
       "environmentVariables": {
-        "ASPNETCORE_ENVIRONMENT": "Development"
+        "ASPNETCORE_ENVIRONMENT": "local", //develoment
+        "clientId": "",
+        "tenantId": "",
+        "clientSecret": ""
       }
     }
   }
