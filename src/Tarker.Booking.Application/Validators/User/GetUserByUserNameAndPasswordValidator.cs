@@ -7,7 +7,7 @@ namespace Tarker.Booking.Application.Validators.User
         public GetUserByUserNameAndPasswordValidator()
         {
             RuleFor(x=> x.Item1).NotNull().NotEmpty().MaximumLength(50);
-            RuleFor(x=> x.Item2).NotNull().NotEmpty().MaximumLength(10);
+            RuleFor(x=> x.Item2).NotNull().NotEmpty().MaximumLength(15);
         }
     }
 }

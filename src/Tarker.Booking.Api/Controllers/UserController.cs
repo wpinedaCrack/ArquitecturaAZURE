@@ -9,13 +9,14 @@ using Tarker.Booking.Application.DataBase.User.Queries.GetAllUser;
 using Tarker.Booking.Application.DataBase.User.Queries.GetUserById;
 using Tarker.Booking.Application.DataBase.User.Queries.GetUserByUserNameAndPassword;
 using Tarker.Booking.Application.Exceptions;
+using Tarker.Booking.Application.External.GetTokenJwt;
 using Tarker.Booking.Application.Features;
 using Tarker.Booking.Domain.Models.ApplicationInsights;
 
 namespace Tarker.Booking.Api.Controllers
 {
 #pragma warning disable
-    //[Authorize]
+    [Authorize]
     [Route("api/v1/user")]
     [ApiController]
     [TypeFilter(typeof(ExceptionManager))]
@@ -132,14 +133,14 @@ namespace Tarker.Booking.Api.Controllers
         }
 
 
-        [AllowAnonymous]
+        [AllowAnonymous]  //Omite la autorización
         [HttpGet("get-by-username-password/{userName}/{password}")]
         public async Task<IActionResult> GetByUserNamePassword(
             string userName, string password,
             [FromServices] IGetUserByUserNameAndPasswordQuery getUserByUserNameAndPasswordQuery,
-            [FromServices] IValidator<(string, string)> validator
-           // [FromServices] IGetTokenJwtService getTokenJwtService
-            )
+            [FromServices] IValidator<(string, string)> validator)
+            //[FromServices] IGetTokenJwtService getTokenJwtService)
+
         {
             //var metric = new InsertApplicationInsightsModel(
             //   ApplicationInsightsConstants.METRIC_TYPE_API_CALL,
@@ -158,7 +159,7 @@ namespace Tarker.Booking.Api.Controllers
             if (data == null)
                 return StatusCode(StatusCodes.Status404NotFound, ResponseApiService.Response(StatusCodes.Status404NotFound));
 
-           // data.Token = getTokenJwtService.Execute(data.UserId.ToString());
+            //data.Token = getTokenJwtService.Execute(data.UserId.ToString());
 
             return StatusCode(StatusCodes.Status200OK, ResponseApiService.Response(StatusCodes.Status200OK, data));
         }

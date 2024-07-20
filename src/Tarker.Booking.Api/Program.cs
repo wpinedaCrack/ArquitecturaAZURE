@@ -37,13 +37,6 @@ using Tarker.Booking.Persistence;
 
 var builder = WebApplication.CreateBuilder(args);
 
-builder.Services
-    .AddWebApi()
-    .AddCommon()
-    .AddApplication()
-    .AddExternal(builder.Configuration)
-    .AddPersistence(builder.Configuration);
-
 builder.Services.AddControllers();
 
 var keyVaultUrl = builder.Configuration["keyVaultUrl"] ?? string.Empty;
@@ -62,9 +55,18 @@ else
     //builder.Configuration.AddAzureKeyVault(new Uri(keyVaultUrl), new DefaultAzureCredential());
 }
 
+builder.Services
+    .AddWebApi()
+    .AddCommon()
+    .AddApplication()
+    .AddExternal(builder.Configuration)         //  ====>   configuration contiene todos los secretos de keyVault
+    .AddPersistence(builder.Configuration);
 //var SQL = builder.Configuration["SQLConnectionStrings"];  //trae valor del secreto de azure
 //var sendGrid = builder.Configuration["SendGridEmailKey"];
 
 var app = builder.Build();
+
+app.UseAuthentication();
+app.UseAuthorization();
 app.MapControllers();
 app.Run();

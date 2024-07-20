@@ -2,7 +2,6 @@
 {
     public interface IGetUserByUserNameAndPasswordQuery
     {
-        Task<GetUserByUserNameAndPasswordModel> Execute(string userName,
-            string password);
+        Task<GetUserByUserNameAndPasswordModel> Execute(string userName, string password);
     }
 }
